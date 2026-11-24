@@ -5,7 +5,7 @@ First-year Computer Science student at the University of Toronto. I like turning
 - Currently learning: data structures, algorithms and machine learning
 - Interested in: math, machine learning and robotics
 - Looking for: software and embedded co-op roles for Summer 2028
-- Ask me about: robotics, Arduino and speedcubing
+- Ask me about: robotics, Arduino and math
 
 ## Projects
 
